@@ -1,5 +1,5 @@
 {
-  "name": "@kukrejalalit/my-component-library",
+  "name": "@kukrejalalit/storybook-component-lib",
   "version": "0.1.0",
   "description": "Building UI components with React, Storybook and typscript",
   "main": "dist/index.js",
