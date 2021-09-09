@@ -1,0 +1,8 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+.middle {
+    top: 50%;
+    display: flex;
+}

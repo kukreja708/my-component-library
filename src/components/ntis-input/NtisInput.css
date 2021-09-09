@@ -1,0 +1,26 @@
+.ntis-input {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    border: 0;
+    border-radius: 0.4em;
+    line-height: 1;
+    padding-right: 1em;
+    padding-left: 1em;
+    border: 1px solid #9d9d9d;
+    width: 400px;
+}
+
+.ntis-input--small {
+    height: 2em;
+    font-size: 14px;
+}
+
+.ntis-input--medium {
+    height: 2.5em;
+    font-size: 16px;
+}
+
+.ntis-input--large {
+    height: 3em;
+    font-size: 18px;
+}
